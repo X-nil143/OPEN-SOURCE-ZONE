@@ -240,7 +240,7 @@ def random_crack():
 	elif opt =='0':
 		menu()
 	else:
-		print('\033[1;91mChoose valid option\033[0;97m')
+		print('\033[1;+88mChoose valid option\033[0;97m')
 
 def random_number():
 	user=[]
